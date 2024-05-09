@@ -32,3 +32,7 @@ const currencies = {
   ZAR: 'South African Rand',
   EUR: 'Euro',
 };
+
+export const localCurrency = "CAD";
+
+export default currencies;
