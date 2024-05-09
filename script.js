@@ -1,3 +1,7 @@
-const name = "wes";
+import { returnHi, last, middle } from "./utils.js";
 
-console.log("It's working")
+const name = "wes";
+console.log(returnHi(name))
+console.log("It's working");
+
+console.log(last, middle)
